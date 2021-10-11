@@ -8,6 +8,7 @@ import org.springframework.stereotype.Repository;
 
 import java.util.List;
 
+//원격에서 수정됨 2
 @Repository //  컨테이너에 Bean 객체로 생성
 @RequiredArgsConstructor    //  생성자로 주입입
 public class BoardDAO {
